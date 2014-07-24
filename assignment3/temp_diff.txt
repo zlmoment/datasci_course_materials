@@ -1,0 +1,9 @@
+diff output/asymmetric_friendships.json solutions/asymmetric_friendships.json
+13d12
+< ["Valjean", "Myriel"]
+27d25
+< ["Champtercier", "Myriel"]
+43d40
+< ["Myriel", "Valjean"]
+45d41
+< ["Myriel", "Champtercier"]
